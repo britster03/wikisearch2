@@ -1,0 +1,6 @@
+pandas
+sentence-transformers
+tqdm
+faiss-cpu
+numpy
+pickle5
